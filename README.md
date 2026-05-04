@@ -2,4 +2,4 @@ Silakan lengkapi tabel berikut dengan nama lengkap dan NRP:
 
 | Nama              | NRP        |
 |-------------------|------------|
-| [Nama Lengkap]    | [NRP]      |
+| Muhammad Fasya Atthaya Rosyada | 5054251006 |
